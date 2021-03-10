@@ -1,9 +1,10 @@
-#English {
+.english {
     position: absolute;
     left: 5%;
     width: 40%;
 }
-#Korean {
+.korean {
+    display: none;
     position: absolute;
     left: 55%;
     width: 40%;
