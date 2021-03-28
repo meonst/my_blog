@@ -1,0 +1,5 @@
+install ibus-korean on ubuntu software(searchbar appears when you start to type in)
+open ibus-setup in terminal
+go to input method and add Korean-Hangul(this didn't show initially but appeared after a reboot for me)
+go to settings/Region & Language and add input source = Korean(Hangul) 
+I suggest you delete whatever English input source you used to use since Korean(Hangul) also has a english input

@@ -1,12 +1,12 @@
 .english {
     position: absolute;
     left: 5%;
-    width: 40%;
+    width: 80%;
 }
 .korean {
     display: none;
     position: absolute;
     left: 55%;
-    width: 40%;
+    width: 80%;
 }
     
